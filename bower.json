@@ -1,0 +1,22 @@
+{
+  "name": "test-data",
+  "authors": [
+    "Sam Critchley <critchley.sj@gmail.com>"
+  ],
+  "description": "angular ui for test-data",
+  "main": "test-data.js",
+  "moduleType": [],
+  "keywords": [
+    "test",
+    "data"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/worldspawn/TestData",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
