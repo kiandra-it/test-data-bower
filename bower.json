@@ -1,17 +1,17 @@
 {
-  "name": "test-data",
+  "name": "ng-test-data",
   "authors": [
     "Sam Critchley <critchley.sj@gmail.com>"
   ],
   "description": "angular ui for test-data",
-  "main": "test-data.js",
+  "main": "ng-test-data.js",
   "moduleType": [],
   "keywords": [
     "test",
     "data"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/worldspawn/TestData",
+  "homepage": "https://github.com/kiandra-it/test-data",
   "ignore": [
     "**/.*",
     "node_modules",
